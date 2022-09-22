@@ -33,9 +33,14 @@ Prazer, sou William Kliemann Junior, entrei no mundo de tec quando tinha 14 anos
           
 </div>
 
+  
+  
+  
+  
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wkliemann&"  />
+
+<div align="left"><br><br>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=wkliemann&" />
 </div>
 
 
