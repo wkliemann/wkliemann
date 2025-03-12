@@ -12,7 +12,7 @@
 </div>
 
 <div style="display: inline_block"><br>  
-<h2>Minha Stack</h2>
+<h2>Stack</h2>
   
   <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">      
   <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,7 +45,7 @@
 
 
 
-<h2>Contatos</h2>
+<h2>Contact</h2>
 
 <div>
 <a href="https://instagram.com/kliemann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
