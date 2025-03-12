@@ -1,6 +1,6 @@
-<h2>Opa, tudo bem?</h2>
+<h2>;)</h2>
 
-Prazer, sou William Kliemann Junior, entrei no mundo de tec quando tinha 14 anos, sou aficionado pela área e hoje atuo como Engenheiro de Dados.
+
 
 
 
