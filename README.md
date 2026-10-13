@@ -1,53 +1,56 @@
-<h2>;)</h2>
+<p align="center">
+  <img src="assets/hero.svg" width="100%" alt="William Kliemann — Head of Data · DevOps · Platform"/>
+</p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/william-kliemann-297b80a3"><img src="https://img.shields.io/badge/LinkedIn-0b0f17?style=for-the-badge&logo=linkedin&logoColor=22d3ee"/></a>
+  <a href="mailto:wkliemannjr@gmail.com"><img src="https://img.shields.io/badge/Email-0b0f17?style=for-the-badge&logo=gmail&logoColor=a78bfa"/></a>
+  <a href="https://instagram.com/kliemann"><img src="https://img.shields.io/badge/Instagram-0b0f17?style=for-the-badge&logo=instagram&logoColor=f472b6"/></a>
+  <img src="https://img.shields.io/badge/📍_SCS_·_RS_·_Brasil-0b0f17?style=for-the-badge"/>
+</p>
 
+<br/>
 
+<p align="center">
+  <img src="assets/agent-trace.svg" width="100%" alt="An AI agent introducing me, using live GitHub data"/>
+</p>
 
+> [!NOTE]
+> **Este perfil é um pipeline.** Todo dia às 06h um GitHub Action extrai meus dados da API do GitHub, transforma e renderiza os cards acima e abaixo como SVG — sem serviços de terceiros. [Veja o código →](scripts/generate.py)
 
+<p align="center">
+  <img src="assets/telemetry.svg" width="100%" alt="Live telemetry: weekly contributions and KPIs"/>
+</p>
 
-<div>
-<a href="https://github.com/wkliemann">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wkliemann&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wkliemann&show_icons=true&theme=dracula&include_all_commits=true"/>
-</div>
+## `$ cat stack.yaml`
 
-<div style="display: inline_block"><br>  
-<h2>Stack</h2>
-  
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" height="60" width="120" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg">
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original-wordmark.svg">	
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">  
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img align="center" height="60" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-          
-</div>
+```yaml
+ingest:      [python, go, apis, ads platforms, event tracking]
+store:       [postgres, sql server, mongodb, cloud warehouses]
+transform:   [sql, pandas, numpy, medallion: bronze → silver → gold]
+govern:      [datahub, data catalog, lineage, metric layer]
+ai:          [llms, agents, mcp servers, tool use, rag]
+platform:    [docker, nginx, linux, ci/cd, github actions, gcp, aws]
+```
 
-  
-  
-  
-  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,go,js,postgres,mongodb,docker,nginx,linux,githubactions,gcp,aws,git&theme=dark&perline=12" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Claude-0b0f17?style=flat-square&logo=claude&logoColor=D97757"/>
+  <img src="https://img.shields.io/badge/MCP-0b0f17?style=flat-square&logo=modelcontextprotocol&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL_Server-0b0f17?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927"/>
+  <img src="https://img.shields.io/badge/Pandas-0b0f17?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-0b0f17?style=flat-square&logo=numpy&logoColor=4DABCF"/>
+  <img src="https://img.shields.io/badge/Anaconda-0b0f17?style=flat-square&logo=anaconda&logoColor=44A833"/>
+</p>
 
+## `$ agent --list-principles`
 
-<div align="left"><br><br>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=wkliemann&" />
-</div>
+| | |
+|---|---|
+| 🧱 **Dado bom é dado governado** | Métrica sem dono e sem linhagem é só um número bonito. |
+| 🤖 **Agentes em cima de fundação sólida** | LLM em dado sujo só erra mais rápido. Primeiro o *gold layer*, depois o agente. |
+| ⚙️ **Plataforma é produto** | Se o time precisa abrir ticket pra fazer deploy, a plataforma falhou. |
+| 📈 **Decisão > dashboard** | O objetivo nunca é o gráfico — é a ação que ele provoca. |
 
-
-
-<h2>Contact</h2>
-
-<div>
-<a href="https://instagram.com/kliemann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-<a href = "mailto:wkliemannjr@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/william-kliemann-297b80a3" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+<p align="right"><sub><code>refreshed daily by <a href=".github/workflows/refresh.yml">profile-agent</a> · built with Claude Code</code></sub></p>
