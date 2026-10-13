@@ -15,9 +15,6 @@
   <img src="assets/agent-trace.svg" width="100%" alt="An AI agent introducing me, using live GitHub data"/>
 </p>
 
-> [!NOTE]
-> **Este perfil é um pipeline.** Todo dia às 06h um GitHub Action extrai meus dados da API do GitHub, transforma e renderiza os cards acima e abaixo como SVG — sem serviços de terceiros. [Veja o código →](scripts/generate.py)
-
 <p align="center">
   <img src="assets/telemetry.svg" width="100%" alt="Live telemetry: weekly contributions and KPIs"/>
 </p>
